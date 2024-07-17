@@ -16,7 +16,7 @@ Network Troubleshooting involves identifying, diagnosing, and resolving network 
 
 ### 📚 Resources
 - **Course PDF:**[Check the REPO]
-- **Video Playlist:** https://youtube.com/playlist?list=PLPfNdHpXHd3YFhpfDBwrONcm9iXU86RAQ&si=3alYGrlTeCSDsTij
+- **Video Playlist:** https://www.youtube.com/watch?v=XaBPzZ4a7pM&list=PLTerE3zLmlF5Tj8G82wAzpDCyvEoDkXYM
 - **Monitor and troubleshoot Windows Server environments:** https://learn.microsoft.com/en-us/training/paths/monitor-troubleshoot-windows-server-environments/
 - **Server Troubleshooting:** https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01350159287110860812228/overview
 
